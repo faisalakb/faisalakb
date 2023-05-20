@@ -1,6 +1,6 @@
 <h1> Hi 👨🏻‍💻 I am Faisal Mumtaz 👋 </h1>
 ![github_cover_banner](./banner.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalakb&label=Profile%20views&color=0e75b6&style=flat" alt="faisalakb" /> </p>
+<p align="left"> <img src="./banner.png" alt="faisalakb" /> </p>
 
 
 - 🌱 I’m currently learning **Full stack development at Microverse**
