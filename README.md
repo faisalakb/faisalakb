@@ -1,5 +1,5 @@
 <h1> Hi 👨🏻‍💻 I am Faisal Mumtaz 👋 </h1>
-![github_cover_banner](./github-header-image.png)
+![github_cover_banner](./banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalakb&label=Profile%20views&color=0e75b6&style=flat" alt="faisalakb" /> </p>
 
 
