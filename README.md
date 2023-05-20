@@ -7,8 +7,8 @@ I am a highly skilled Full-Stack software engineer, driven by a passion for Rail
 and looking forward to help you and take your business to the next level.
 </p>
 <br>
-- 🌱 I’m currently learning **Full stack development at Microverse**
-- 👨‍💻 All of my projects are available at [https://github.com/faisalakb](https://github.com/faisalakb)
+- 🌱 I’m currently learning **Full stack development at Microverse** <br>
+- 👨‍💻 All of my projects are available at [https://github.com/faisalakb](https://github.com/faisalakb) <br>
 - 📫 How to reach me **faisalakb786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
