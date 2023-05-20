@@ -1,5 +1,4 @@
-<h1> Hi 👨🏻‍💻 I am Faisal Mumtaz 👋 </h1>
-![github_cover_banner](./banner.png)
+<h1> Hi 👨🏻‍💻 Respected Viewer 👋 </h1>
 <p align="left"> <img src="./banner.png" alt="faisalakb" /> </p>
 
 
